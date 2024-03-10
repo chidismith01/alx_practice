@@ -6,3 +6,4 @@ for i in range(5):
     list.append(random.randrange(1,9))
 for i in list:
     print(i)
+    
